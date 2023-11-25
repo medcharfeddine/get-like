@@ -5,7 +5,7 @@ const Facebook = () => {
   return (
     <div className="socials">
       <a
-        href="fb://page/GET.Fashion"
+        href="fb://page/924897634241785"
         target="_blank"
         rel="noreferrer"
         style={{ display: "flex", justifyContent: "center" }}
